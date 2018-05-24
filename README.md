@@ -2,7 +2,7 @@
 
 ## How to run game
 
-Option 1: Visit [this page](https://kaldhussaeter.github.io/Udacity-frogger/)
+Option 1: Visit [this page](https://kaldhussaeter.github.io/Udacity-frogger/).
 Option 2: Download or clone the files to your computer, and run the "index.html" file in your browser.
 
 
