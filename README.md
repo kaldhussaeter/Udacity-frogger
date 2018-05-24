@@ -2,8 +2,8 @@
 
 ## How to run game
 
-To play this game you will have to download the files to your computer,
-simply open the "index.html" in your browser, and game will automatically run on the page.
+Option 1 => Visit [this page](https://kaldhussaeter.github.io/Udacity-frogger/)
+Option 2 => Download or clone the files to your computer, and run the "index.html" file in your browser.
 
 
 ## How to play
