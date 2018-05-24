@@ -1,0 +1,62 @@
+body {
+  display: flex;
+  background-color: #b1cbbb;
+}
+
+.container {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.header {
+  width: 100%;
+}
+
+h1 {
+  text-align: center;
+  font-family: 'Monoton', cursive;
+  font-size: 80px;
+  font-weight: normal;
+  margin: 1px;
+  padding: 1px;
+}
+
+.main-body {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.sidebar-score {
+  font-family: 'Monoton', cursive;
+  display: flex;
+  flex-wrap: wrap;
+  width: 400px;
+}
+
+#score-panel {
+  text-align: center;
+  margin-left: 30%;
+  margin-top: 5%;
+}
+
+#lifes {
+  display: flex;
+  flex-wrap: wrap;
+  padding-left: 1px;
+}
+
+li {
+  list-style-type: none;
+}
+
+
+img {
+  width: 40px;
+  height: 60px;
+}
+
+#game-canvas {
+  display: flex;
+  flex-wrap: wrap;
+}
