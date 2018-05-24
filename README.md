@@ -2,7 +2,8 @@
 
 ## How to run game
 
-Simply open the "index.html" in your browser, and game will open on the page.
+To play this game you will have to download the files to your computer,
+simply open the "index.html" in your browser, and game will automatically run on the page.
 
 
 ## How to play
